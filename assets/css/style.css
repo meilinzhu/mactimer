@@ -903,6 +903,18 @@ section {
   }
 }
 
+select {
+  font-family: "Poppins", sans-serif;
+  background-color: transparent;
+  width: 400px;
+  text-align-last:center;
+  margin: auto;
+  font-family: inherit;
+  font-size: inherit;
+  cursor: inherit;
+  line-height: inherit;
+
+}
 /*--------------------------------------------------------------
 # Contact
 --------------------------------------------------------------*/
