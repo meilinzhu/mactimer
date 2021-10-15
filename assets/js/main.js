@@ -152,7 +152,7 @@
   }
 
   /**
-   * Skills animation
+   * animation
    */
   let skilsContent = select('.skills-content');
   if (skilsContent) {
